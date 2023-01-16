@@ -5,10 +5,9 @@
 
 - 📫 How to reach me **wjdanwasli14@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/wjdan-wasli-8501aa1b6](www.linkedin.com/in/wjdan-wasli-8501aa1b6)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/wjdan-wasli-8501aa1b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/wjdan-wasli-8501aa1b6" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
